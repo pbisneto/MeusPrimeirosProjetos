@@ -5,8 +5,8 @@ if n == 7:
 elif n == 2:
     print('Uau vc descobriu o numero SeCrEtO')
 elif n > 10:
-    print('Esse numero é maior que 10 animal')
+    print('Esse numero é maior que 10')
 elif n < 1:
-    print('Esse numero é menor que 1 animal')
+    print('Esse numero é menor que 1')
 else:
-    print('ERROUUUUU KKKK')
+    print('Errou')
